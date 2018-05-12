@@ -1,0 +1,38 @@
+_repo: These-Twain_40483
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40483-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: These twain (1916) is the third novel in the Clayhanger series. Edwin
+  Clayhanger, having saved Hilda from destitution by marrying her, must now not only
+  accept her son by a former lover, but also her outspokenness. Bennett's title for
+  this novel suggests the complexity of how Hilda and Edwin attempt to compromise
+  their divergent attitudes for the sake of their marriage.
+gutenberg_issued: '2012-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40483'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcsh 'Marriage -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Clayhanger family (Fictitious characters) -- Fiction'
+- !lcsh 'Young adults -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: These Twain
+url: http://www.gutenberg.org/ebooks/40483
